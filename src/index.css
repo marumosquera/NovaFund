@@ -30,3 +30,22 @@ body {
   src: local("sohne"),
     url("./fonts/sohne/sohne-fett.otf") format("truetype");
 }
+
+
+@font-face {
+  font-family: "Mouse Memoirs";
+  src: url("./fonts/MouseMemoirs.woff2") format("woff2"),
+    url("./fonts/MouseMemoirs.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Lexend Deca";
+  src: url("./fonts/LexendDeca-Regular.woff2") format("woff2"),
+    url("./fonts/LexendDeca-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
