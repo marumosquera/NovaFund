@@ -1,0 +1,10 @@
+.icons{
+    text-align: center;
+    margin: auto;
+    font-size: 5em;
+}
+
+.icons-container > p {
+    font-size: larger;
+    font-weight: 800;
+}

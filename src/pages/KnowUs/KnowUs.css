@@ -1,0 +1,17 @@
+.know-page{
+    /* height: 90.5vh; */
+    width: 100%;
+    font-family: 'Lexend Deca','arial','monospace';
+}
+
+.know-title {
+    font-size: 3em;
+    font-family: 'saintecolombe','arial','monospace';
+}
+
+.img-us{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    border-radius: 50%;
+}
