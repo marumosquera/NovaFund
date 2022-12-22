@@ -9,7 +9,7 @@ import './BannerInfo.css'
 export const BannerInfo = () => {
   return (
     <>
-      <div className="w-full flex mt-5 mb-5">
+      <div className="w-full flex mt-12 mb-10">
       <div className="w-1/3 icons-container">
         <BiDonateHeart className="icons"/>
         <p>DONATE</p>
