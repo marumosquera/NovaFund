@@ -1,0 +1,8 @@
+.home-page{
+    height: 90.5vh;
+    width: 100%;
+    background-image: url("../../../public/assets/bannerdesktop.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'sohne','arial','monospace';
+}
