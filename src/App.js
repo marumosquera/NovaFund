@@ -10,6 +10,7 @@ function App() {
     <BrowserRouter>
       <div className="App">
         <NavBar />
+        <Routes>
         <Route path="/" element={<HomePage />} />
 
         <Route path="/about" element={<AboutPage />} />
@@ -19,8 +20,9 @@ function App() {
         <Route path="/know-us" element={<KnowUs />} />
         {/* 
         <Route path="/*" element={<ErrorPage />} /> */}
+         </Routes>
       </div>
-    </BrowserRouter>
+      </BrowserRouter>
   );
 }
 
